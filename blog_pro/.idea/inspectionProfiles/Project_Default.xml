@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="img" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E302" />
+          <option value="E303" />
+          <option value="W191" />
+          <option value="E128" />
+          <option value="E101" />
+          <option value="E117" />
+          <option value="E265" />
+          <option value="W292" />
+          <option value="E301" />
+          <option value="E305" />
+          <option value="E225" />
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.models.*" />
+          <option value="core.*" />
+          <option value="accounts.models.Product.objects" />
+          <option value="accounts.models.Order.objects" />
+          <option value="accounts.models.Customer.objects" />
+          <option value="accounts.views.save" />
+          <option value="accounts.views.order" />
+          <option value="accounts.views.processing" />
+          <option value="django.contrib.auth.forms.userCreateForm" />
+          <option value="accounts.views.form" />
+          <option value="django.contrib.auth.forms.userCreationForm" />
+          <option value="accounts.views.filters" />
+          <option value="testp.NewsApp.forms.RegistrationModel" />
+          <option value="testp.NewsApp.forms.RegistrationForm" />
+          <option value="crm1.urls.document_root" />
+          <option value="accounts.views.CustomerForm" />
+          <option value="accounts.forms.Customer" />
+          <option value="accounts.forms.Order" />
+          <option value="first.first.settings.os" />
+          <option value="crm.forms" />
+          <option value="crm.models" />
+          <option value="first.models" />
+          <option value="first.forms" />
+          <option value="first_project.first.views.forms" />
+          <option value="django.views.generic.view" />
+          <option value="blog.app_login.views.app_login" />
+          <option value="blog.app_blog.views.app_blog" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
